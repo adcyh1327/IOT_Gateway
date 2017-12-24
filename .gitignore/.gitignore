@@ -1,0 +1,10 @@
+/Debug/
+/Obj/
+/List/
+*.lst
+*.map
+*.o
+*.crf
+*.d
+*.htm
+*.o
